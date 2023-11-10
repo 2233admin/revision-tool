@@ -1,7 +1,5 @@
 {
   "@@locale": "zh_TW",
-  "unsupportedTitle": "錯誤",
-  "unsupportedContent": "檢測到不支持的構建",
   "okButton": "確定",
   "notNowButton": "現在不要",
   "restartDialog": "您必須重新啟動電腦才能使更改生效",
@@ -33,7 +31,7 @@
   "securityUACLabel": "用戶帳戶控制",
   "securityUACDescription": "將應用程序限制為標準用戶權限，直到管理員授權提升",
   "securitySMLabel": "取消Spectre & Meltdown",
-  "securitySMDescription": "可取消 Spectre 和 Meltdown 漏洞的補丁",
+  "securitySMDescription": "可撤銷 Spectre 和 Meltdown 漏洞的修補程序 Spectre 和 Meltdown 是近年來發現的兩個處理器漏洞，它們由相關晶片的嚴重設計缺陷引起。這些漏洞可能會導致攻擊者訪問核心記憶體中的高度敏感數據，例如密碼、加密金鑰、個人照片、電子郵件等（請注意，由於設計原因，電腦默認安裝帶修補程序的操作系統後，其處理速度會減緩。速度減緩會導致性能下降約 5-30%，這在很大程度上取決於晶片的類型和所執行的任務）",
   "usabilityNotifLabel": "Windows 通知",
   "usabilityNotifDescription": "完全切換 Windows 通知",
   "usabilityLBNLabel": "舊版通知氣泡",
